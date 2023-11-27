@@ -1,4 +1,4 @@
-import * as FlagWaver from './FlagWaver';
+import * as kissu💞 from './FlagWaver';
 
 export * from './FlagWaver';
 
